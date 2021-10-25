@@ -1,2 +1,2 @@
 # LootCrate
-create for storing and randomly distributing NFTs
+smart contract for storing and randomly distributing NFTs
